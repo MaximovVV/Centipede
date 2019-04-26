@@ -4,3 +4,5 @@ You are in space driving a spacecraft. You have to fight with alien enemies, suc
 Sometimes you encounter special crystals that allow you to charge your weapon with a strong charge.
 Remember that your health is displayed in the lower left corner. The game scores and shows what you have achieved. You can move by pressing the W, A, S, D keys and shooting with the space bar. 
 **Good luck and beware of fiery comets!**
+
+***Created in Unity 2017.4.25f1. Recommended screen resolution up to 1280x600 (not inclusive)***
