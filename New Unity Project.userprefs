@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PieceCentipede.cs">
+    <Files>
+      <File FileName="Assets\PlayerMovment.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerShooting.cs" Line="1" Column="1" />
+      <File FileName="Assets\DamageHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\FireMovment.cs" Line="1" Column="1" />
+      <File FileName="Assets\DamageNandlerAsteroid.cs" Line="1" Column="1" />
+      <File FileName="Assets\SpawnEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\PieceCentipede.cs" Line="47" Column="32" />
+      <File FileName="Assets\Centipede.cs" Line="1" Column="1" />
+      <File FileName="Assets\BlockHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\PieceMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\DamageHandlerEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\DamageHandlerPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\CentipedeBody.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
