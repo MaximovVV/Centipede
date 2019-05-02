@@ -5,4 +5,4 @@ From time to time you have an opportunity to shoot special crystals that allow y
 Your health is displayed in the lower left corner. The game scores and shows your achievements. You can move by pressing the W, A, S, D keys and shoot with the space bar. 
 **Good luck and beware of fiery comets!**
 
-***Created in Unity 2017.4.25f1. Recommended screen resolution up to 1280x600 (not inclusive)***
+***Created by Unity 2017.4.25f1.***
